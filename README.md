@@ -1,5 +1,5 @@
 # async
-Async utilities for FXServer
+Async için yardımcı programlar FXServer
 
 ## indirme
 Onu bir bağımlılık olarak ayarla fxmanifest.lua
